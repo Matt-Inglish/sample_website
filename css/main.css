@@ -1,0 +1,28 @@
+.nav-spacing {
+    margin: 0 0 0 10px;
+  }
+  .nav-menu {
+    text-align: right;
+  }
+  .image-link {
+    text-decoration: none;
+  }
+  .quote-box {
+    padding: 2px 20px; background: #ffaa00;
+  }
+  .moby-header {
+    text-align: center; margin: 0 0 80px;
+  }
+  .whale-style {
+    display: block; margin: 0 auto
+  }
+  .page-block {
+    width: 500px; margin: 20px auto; padding: 30px;
+    background-color: #fafafa
+  }
+  .quote-style {
+    font-style: italic; font-size: 20px;
+  }
+  .fload-pic {
+    float: left; margin-right: 40px;
+  }
